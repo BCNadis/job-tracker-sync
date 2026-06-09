@@ -1,0 +1,4 @@
+# Personal config overrides — keep your real sheet ID out of the repo
+*.local.md
+*.local
+config.local.*
